@@ -2,6 +2,8 @@
 
 > Quotes app using Vuejs using which a user can add quotes and delete quotes
 
+![image](Quotes.png)
+
 ## Build Setup
 
 ``` bash
