@@ -2,7 +2,7 @@
 
 > Quotes app using Vuejs using which a user can add quotes and delete quotes
 
-![image](Quotes.png)
+![image](Qoutes.png)
 
 ## Build Setup
 
