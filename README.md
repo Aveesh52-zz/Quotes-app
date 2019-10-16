@@ -1,6 +1,6 @@
-# vue-cli
+# Quotes app
 
-> A Vue.js project
+> Quotes app using Vuejs using which a user can add quotes and delete quotes
 
 ## Build Setup
 
